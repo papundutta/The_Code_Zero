@@ -1,8 +1,9 @@
 # The_Code_Zero
 
-[ # LEGAL DISCLAIMER PLEASE READ! 🛑 ]
+[ ## LEGAL DISCLAIMER PLEASE READ! 🛑 ]
 
-I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
+# I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
+
 
 
 The_Code_Zero implant that turns victim Chrome browsers into fully-functional HTTP proxies. By using the proxies this tool creates you can browse the web authenticated as your victim for all of their websites.
@@ -49,9 +50,13 @@ Once you have the backend setup, log in to the admin panel at `http://localhost:
 There are many ways to getting involved with Watcher:
 
 Report bugs by opening Issues on GitHub.
+
 Request new features or suggest ideas (via Issues).
+
 Make pull-requests.
+
 Discuss bugs, features, ideas or issues.
+
 Share Watcher to your community (Twitter, Facebook...).
 
 
